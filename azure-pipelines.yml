@@ -5,7 +5,7 @@ strategy:
       vmImage: ubuntu-latest
 
     selfhosted:
-      poolName: testmulti
+      poolName: Default
       vmImage:
 
 pool:
