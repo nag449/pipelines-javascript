@@ -5,7 +5,7 @@ strategy:
       vmImage: ubuntu-latest
 
     selfhosted:
-      poolName: FabrikamPool
+      poolName: ELW1645
       vmImage:
 
 pool:
